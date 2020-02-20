@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<bibliotecas>
-    <biblioteca local="Caxias-MA">
+<biblioteca>
+    <campus local="Caxias-MA">
         <estantes>
             <estante letra-estante = "A">
                 <area-livro area = "Matemática">
@@ -20,20 +20,20 @@
                 </area-livro>
                 <area-livro area = "Geografia">
                     <livro escritor="Emilly L." volume="4" ano="2009">Geopolitica</livro>
-                    <livro escritor="Meria J." volume="3" ano="2018">Globalização</livro>
+                    <livro escritor="Meria J." volume="3" ano="2018">Globalizacao</livro>
                 </area-livro>
             </estante>
         </estantes>
-   
+        
         <funcionarios>
             <funcionario idade="30" ocupacao="atendente">
                 Vanessa Bruxa
             </funcionario>
             <funcionario idade="26" ocupacao="manutencao">
-                Filipe Gonçalves
+                Filipe Goncalves
             </funcionario>    
         </funcionarios>
-
-    </biblioteca>
-</bibliotecas>
+    </campus>
+    
+</biblioteca>
 

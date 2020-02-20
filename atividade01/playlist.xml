@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<playlist>
+    <spotify versao="3.12">
+        <playlist-guil>
+            <nome-playlist nome="rock">
+                <musica ano="1991" artista="guns n roses" tam="4mb">
+                    Knocking on havens door
+                </musica>
+                <musica ano="1990" artista="guns n roses" tam="5mb">
+                    paradise city
+                </musica>
+            </nome-playlist>
+            
+            <nome-playlist nome="opening-animes">
+                <musica ano="2016" artista="kanaboom" tam="5mb">
+                    Silhouette
+                </musica>
+                <musica ano="2017" artista="Radwimps" tam="3mb">
+                    Sparkle
+                </musica>
+            </nome-playlist>
+        </playlist-guil>
+
+        <playlist-nicole>
+            <nome-playlist nome="sertanejo">
+                <musica ano="2010" artista="paula fernades" tam="4mb">
+                    Não diga que não precisa
+                </musica>
+                <musica ano="2015" artista="Luan Santana " tam="6mb">
+                    Sinais
+                </musica>
+            </nome-playlist>  
+        </playlist-nicole>
+
+        <contas>
+            <conta user="guilherme">
+                guilhermesilva@gmail.com
+            </conta>
+            <conta user="nicole">
+                nicolesilva@gmail.com
+            </conta>   
+        </contas>
+
+    </spotify>
+</playlist>
+
