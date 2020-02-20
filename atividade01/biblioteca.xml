@@ -8,7 +8,7 @@
                     <livro  escritor="guilherme L." volume="5" ano="2000"> Calculo I</livro>
                     <livro  escritor="butano N." volume="2" ano="2005"> Algebra</livro>
                 </area-livro>
-                <area-livro area = "Quimica">
+                <area-livro area = "Química">
                     <livro escritor="Nicole L." volume="1" ano="2003"> Quimica Geral</livro>
                     <livro escritor="but w." volume="2" ano="2002">Carbonos</livro>
                 </area-livro>
@@ -33,7 +33,6 @@
                 Filipe Goncalves
             </funcionario>    
         </funcionarios>
-    </campus>
-    
+    </campus>    
 </biblioteca>
 
