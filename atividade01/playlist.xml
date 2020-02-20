@@ -1,36 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<pedidos-delivery>
-    <ifood versao="3.40">
-        <cidade nome="caxias">
-            <estabelecimento nome="Pizzaria-Pontes">
-                <pedidos>
-                  <pedido num-pedidod="0123" valor-total="30" tempo-entrega="1hr">
-                        <pizzas>
-                            <pizza sabor="estrogonofe" valor="15" tam="M">
-                                Pizza de Esftrogonofe
-                            </pizza>
-                            <pizza sabor="churrasco" valor="15" tam="P">
-                                Pizza de Churrasco
-                            </pizza>
-                        </pizzas>
+<playlist>
+    <spotify versao="3.12">
+        <playlist-guil>
+            <nome-playlist nome="rock">
+                <musica ano="1991" artista="guns n roses" tam="4mb">
+                    Knocking on havens door
+                </musica>
+                <musica ano="1990" artista="guns n roses" tam="5mb">
+                    paradise city
+                </musica>
+            </nome-playlist>
+            
+            <nome-playlist nome="opening-animes">
+                <musica ano="2016" artista="kanaboom" tam="5mb">
+                    Silhouette
+                </musica>
+                <musica ano="2017" artista="Radwimps" tam="3mb">
+                    Sparkle
+                </musica>
+            </nome-playlist>
+        </playlist-guil>
 
-                        <bebidas ano="1990" artista="guns n roses" tam="5mb">
-                            <bebida tipo="refrigerante" sabor="Coca-cola" valor="6,00" litro="2">
-                                Refrigerante Coca-cola de 2 litros
-                            </bebida>
-                        </bebidas>
-                    </pedido>
-                </pedidos>
-            </estabelecimento>
-        </cidade>   
-        
+        <playlist-nicole>
+            <nome-playlist nome="sertanejo">
+                <musica ano="2010" artista="paula fernades" tam="4mb">
+                    Não diga que não precisa
+                </musica>
+                <musica ano="2015" artista="Luan Santana " tam="6mb">
+                    Sinais
+                </musica>
+            </nome-playlist>  
+        </playlist-nicole>
+
         <contas>
-            <conta user="guilherme" sobrenome="lourenço" cidade="Caxias" rua="esplanada" numero="667" cep="65608090" bairro="centro">
+            <conta user="guilherme">
                 guilhermesilva@gmail.com
+            </conta>
+            <conta user="nicole">
+                nicolesilva@gmail.com
             </conta>   
         </contas>
 
-    </ifood>
-</pedidos-delivery>
+    </spotify>
+</playlist>
 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pedidos-delivery>
+    <ifood versao="3.40">
+        <cidade nome="caxias">
+            <estabelecimento nome="Pizzaria-Pontes">
+                <pedidos>
+                  <pedido num-pedidod="0123" valor-total="30" tempo-entrega="1hr">
+                        <pizzas>
+                            <pizza sabor="estrogonofe" valor="15" tam="M">
+                                Pizza de Esftrogonofe
+                            </pizza>
+                            <pizza sabor="churrasco" valor="15" tam="P">
+                                Pizza de Churrasco
+                            </pizza>
+                        </pizzas>
+
+                        <bebidas ano="1990" artista="guns n roses" tam="5mb">
+                            <bebida tipo="refrigerante" sabor="Coca-cola" valor="6,00" litro="2">
+                                Refrigerante Coca-cola de 2 litros
+                            </bebida>
+                        </bebidas>
+                    </pedido>
+                </pedidos>
+            </estabelecimento>
+        </cidade>   
+        
+        <contas>
+            <conta user="guilherme" sobrenome="lourenço" cidade="Caxias" rua="esplanada" numero="667" cep="65608090" bairro="centro">
+                guilhermesilva@gmail.com
+            </conta>   
+        </contas>
+
+    </ifood>
+</pedidos-delivery>
+
